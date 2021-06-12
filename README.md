@@ -1,2 +1,2 @@
 # windows
-Envornment for windows, local development
+Envirnment for windows, local development
